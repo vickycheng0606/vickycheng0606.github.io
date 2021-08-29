@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Layout on 鄭瑜 | 作品集網站</title>
+    <link>https://examplesite.com/categories/layout/</link>
+    <description>Recent content in Layout on 鄭瑜 | 作品集網站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://examplesite.com/categories/layout/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>多扶事業小冊子</title>
+      <link>https://examplesite.com/portfolio/project-18/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/portfolio/project-18/</guid>
+      <description>小冊子用途為介紹多扶事業所提供的服務，包括銀髮、身障者出團旅遊；輔具租借、購買；多扶專車接送等服務。</description>
+    </item>
+    
+  </channel>
+</rss>
